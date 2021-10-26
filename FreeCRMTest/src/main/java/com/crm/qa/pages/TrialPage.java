@@ -1,1 +1,10 @@
-this is trial page for Java class added on github and pulled here
+package com.crm.qa.pages;
+
+public class TrialPage {
+	
+	public static void main(String[] args) {
+		System.out.println("this is second push from eclipse for FreeCRM");
+	}
+	
+}
+
